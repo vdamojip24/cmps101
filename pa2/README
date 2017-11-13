@@ -1,0 +1,3 @@
+Vishal Damojipurapu vdamojip@ucsc.edu PA2
+
+This program assignment contains six files: ListClient.c , List.h , List.c ,    Lex.c , Makefile, and a README. ListClient.c is used for the comparison output. List.h is the header file and lists  all the methods used for the list          operations. List.c has all the methods used for the list operations and includesthe header file. Lex.c is used for the sorthing algorithms. The Makefile is usedto compile and run the program and this README is for the description of each   file.  
