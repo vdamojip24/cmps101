@@ -1,0 +1,7 @@
+/////////////////////////////////
+//  Vishal Damojipurapu
+// README
+// Pa1
+// README for program assignment1
+ 
+This program includes List.java , ListClient.java , Lex.java , Makefile , and   this README file. The List.java file is used for to create a doubly linked list and use its different operations. The ListClient.java is used to check if the   list methods are working. The Lex.java file is used to sort an input file and   create an output life that sorts the content of the input file in alphabetical  order. The Makefile is used to compile and run the program. Additionally, a lot of code used in the program was provided by Professor Tantalo's queue, stack,   and FileIO files.  
