@@ -1,0 +1,6 @@
+Vishal Damojipurapu
+vdamojip
+11/18/17
+PA4
+
+This program contains 8 files: List.h , List.c , Graph.h , Graph.c ,            GraphTest.c , FindPath.c , Makefile, and README. List.h is the header file for  all the list operations. List.c containts all the list operations. Graph.h is   the header file for all the graph operations. Graph.c contains all the graph    operations and also includes the breadthfirst algorithm. GraphTest.c is where I test the Graph operations. FindPath.c takes in an input to build a graph, to    perform the sort, and puts it in the output file. The Makefile compiles the     program and this README describes all the files in the program.  
